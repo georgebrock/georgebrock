@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Here are a few of the projects I work on for fun and profit …
+
+[<img alt="GitHub" src="https://www.georgebrock.com/images/logos/github.png" width="125">](https://www.github.com)&nbsp;&nbsp;
+[<img alt="Choosy" src="https://www.georgebrock.com/images/logos/choosy.png" width="125">](https://www.choosyosx.com)&nbsp;&nbsp;
+[<img alt="gitsh" src="https://www.georgebrock.com/images/logos/gitsh.png" width="125">](https://www.github.com/thoughtbot/gitsh)&nbsp;&nbsp;
+[<img alt="Spacelog" src="https://www.georgebrock.com/images/logos/spacelog.png" width="125">](https://www.github.com/spacelog)
+
 <!--
 **georgebrock/georgebrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
