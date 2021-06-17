@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm George 👋
 
 Here are a few of the projects I work on for fun and profit …
 
